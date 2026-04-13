@@ -1,0 +1,4 @@
+C:\Users\yinhl\source\repos\CybersecurityBotPOE\CybersecurityBotPOE\obj\Debug\net10.0\CybersecurityBotPOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yinhl\source\repos\CybersecurityBotPOE\CybersecurityBotPOE\obj\Debug\net10.0\CybersecurityBotPOE.AssemblyInfoInputs.cache
+C:\Users\yinhl\source\repos\CybersecurityBotPOE\CybersecurityBotPOE\obj\Debug\net10.0\CybersecurityBotPOE.AssemblyInfo.cs
+C:\Users\yinhl\source\repos\CybersecurityBotPOE\CybersecurityBotPOE\obj\Debug\net10.0\CybersecurityBotPOE.csproj.CoreCompileInputs.cache

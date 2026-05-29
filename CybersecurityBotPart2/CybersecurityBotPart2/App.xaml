@@ -1,0 +1,25 @@
+<Application x:Class="CybersecurityBotGUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Global colour palette -->
+        <SolidColorBrush x:Key="DarkBg"        Color="#0D1117"/>
+        <SolidColorBrush x:Key="PanelBg"       Color="#161B22"/>
+        <SolidColorBrush x:Key="AccentCyan"    Color="#00D4FF"/>
+        <SolidColorBrush x:Key="AccentGreen"   Color="#00FF88"/>
+        <SolidColorBrush x:Key="AccentRed"     Color="#FF4757"/>
+        <SolidColorBrush x:Key="AccentYellow"  Color="#FFC107"/>
+        <SolidColorBrush x:Key="TextPrimary"   Color="#E6EDF3"/>
+        <SolidColorBrush x:Key="TextSecondary" Color="#8B949E"/>
+        <SolidColorBrush x:Key="BorderColor"   Color="#30363D"/>
+        <SolidColorBrush x:Key="BotMsgBg"      Color="#1C2333"/>
+        <SolidColorBrush x:Key="UserMsgBg"     Color="#1A3A2A"/>
+
+        <!-- Scrollbar style -->
+        <Style x:Key="DarkScrollBar" TargetType="ScrollBar">
+            <Setter Property="Background" Value="#0D1117"/>
+            <Setter Property="Foreground" Value="#30363D"/>
+        </Style>
+    </Application.Resources>
+</Application>
